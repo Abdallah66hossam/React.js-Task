@@ -16,6 +16,7 @@ const Partners = () => {
       <Marquee
         className="flex items-center justify-center"
         gradient={true}
+        gradientWidth={40}
         autoFill={true}
         direction="right"
         pauseOnHover={true}

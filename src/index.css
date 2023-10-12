@@ -24,6 +24,7 @@ button {
   animation-direction: alternate;
   animation-name: vector;
   animation-duration: 1500ms;
+  animation-fill-mode: forwards;
   left: 0;
 }
 @keyframes vector {
