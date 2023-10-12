@@ -12,12 +12,20 @@
 <img src="./screenshots/mobile-screen.png" />
 
 ## Libraries used:
-• Vit.js
+• React.js
+
+• Vite.js
+
 • Tailwind CSS
+
 • react-icons
+
 • react-scroll-trigger
+
 • react-fast-marquee
+
 • react-countup
+
 • AOS
 
 ---
