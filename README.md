@@ -1,8 +1,39 @@
-# React + Vite
+# React.js Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screens
 
-Currently, two official plugins are available:
+### Big screens - 1512px
+<img src="./screenshots/big-screen.png" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Mid screens - 1024px
+<img src="./screenshots/mid-screen.png" />
+
+### Small screens - 414px
+<img src="./screenshots/mobile-screen.png" />
+
+## Libraries used:
+• Vit.js
+• Tailwind CSS
+• react-icons
+• react-scroll-trigger
+• react-fast-marquee
+• react-countup
+• AOS
+
+---
+## Run yourself
+> Make sure you have [nodejs](https://nodejs.org/) installed on your system before proceeding.
+
+1. Clone this repo
+```bash
+git clone https://github.com/Abdallah66hossam/React.js-Task.git
+cd React.js-Task
+```
+2. Install project dependencies
+```bash
+npm install
+```
+3. Start development server
+```bash
+npm run dev
+```
